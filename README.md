@@ -1,2 +1,8 @@
 # SWAD
-S. W. A. D.
+Order-al-Ready is a campus-based start-up planning to launch a food pre-ordering platform for Students and Food Stall Staff at local educational institutions. The Order-al-Ready team is in the early planning stages and has engaged a software design and development team to help define, analyse, and design the system before development begins. The students of ‘Group 1’ have been selected to be the Software Analyst and Designer, responsible for understanding the business needs and producing the necessary technical design specifications. The successful implementation and operation of the Order-al-Ready platform are dependent on the active involvement and collaboration of several key stakeholder groups. These include:
+•	Regular Students: The primary end-users who will leverage the platform for their daily food pre-ordering needs on campus.
+•	Priority Students: A specific segment of student users who will benefit from enhanced privileges, such as increased order limits or exclusive pick-up windows, due to their accessibility needs or leadership roles.
+•	Food Stall Staff: The operational users responsible for managing their respective stalls, updating menus, processing orders, and interacting with the platform's features to ensure efficient food service.
+•	Administrators: The Order-al-Ready team, who will oversee the entire platform, manage user accounts, moderate content, resolve disputes, and configure system settings to ensure optimal performance and policy adherence.
+
+We supposed to provide a convenient, real-time digital pre-ordering platform for students and food stall staff within campus environments
